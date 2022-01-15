@@ -50,6 +50,14 @@ nav{
   flex: 1;
   text-align: right;
 }
+nav ul{
+  display: inline-block;
+  list-style: none;
+}
+nav ul li{
+  display: inline-block;
+  margin-right: 32px;
+}
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
